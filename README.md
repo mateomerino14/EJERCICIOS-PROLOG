@@ -1,2 +1,4 @@
-# EJERCICIOS-PROLOG
-Ejercicios de programación lógica en Prolog. Implementaciones de predicados clásicos para manipulación de listas (longitud, pertenencia, concatenación, inversión, eliminación de duplicados), algoritmos recursivos (factorial, fibonacci) y una base de conocimiento sobre enfermedades, síntomas y tratamientos.
+==========EJERCICIOS DE PROGRAMACIÓN LÓGICA EN PROLOG==========
+
+====DESCRIPCIÓN====
+Este repositorio contiene una colección de ejercicios resueltos en **Prolog**, demostrando conceptos fundamentales de programación lógica: recursividad, manejo de listas, backtracking, unificación y bases de conocimiento. Los ejercicios están organizados en tres categorías principales: predicados clásicos sobre listas, algoritmos aritméticos recursivos y un sistema experto simple sobre enfermedades y tratamientos.
